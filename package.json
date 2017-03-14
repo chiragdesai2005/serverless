@@ -1,0 +1,21 @@
+{
+  "name": "serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "dynamodb": "^0.3.6",
+    "aws-sdk": "^2.22.0",
+    "serverless-dynamodb-local": "^0.2.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "dynamodb",
+    "example"
+  ],
+  "author": "chirag desai",
+  "license": "ISC"
+}
